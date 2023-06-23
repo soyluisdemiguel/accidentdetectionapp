@@ -1,0 +1,8 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+gunicorn==20.1.0
+aiofiles==0.7.0
+pyserial==3.5
+numpy
+opencv-python==4.5.4.58
+tensorflow
